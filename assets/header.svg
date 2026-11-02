@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Mohamed Adel. AI product engineer. Building agents that do real work, with Claude Code.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" x2="1">
+      <stop offset="0" stop-color="#7dd3fc"><animate attributeName="stop-color" values="#7dd3fc;#c4b5fd;#f0abfc;#7dd3fc" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#c4b5fd"><animate attributeName="stop-color" values="#c4b5fd;#f0abfc;#7dd3fc;#c4b5fd" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+    .name{font-size:46px;font-weight:800;fill:url(#ink)}
+    .role{font-size:18px;fill:#cbd5e1;letter-spacing:.5px}
+    .line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:15px;fill:#94a3b8}
+    .w{opacity:0;animation:cycle 12s infinite}
+    .w1{animation-delay:0s}.w2{animation-delay:4s}.w3{animation-delay:8s}
+    @keyframes cycle{0%{opacity:0}3%,30%{opacity:1}33%,100%{opacity:0}}
+    .dot{fill:#a78bfa;opacity:.5;animation:float 6s ease-in-out infinite}
+    .d2{animation-delay:-2s;fill:#38bdf8}.d3{animation-delay:-4s;fill:#f472b6}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    .cur{animation:blink 1s steps(1) infinite;fill:#a78bfa}@keyframes blink{50%{opacity:0}}
+  </style>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <g>
+    <circle class="dot" cx="760" cy="60" r="5"/><circle class="dot d2" cx="820" cy="110" r="4"/><circle class="dot d3" cx="700" cy="150" r="3.5"/>
+    <circle class="dot d2" cx="640" cy="50" r="2.5"/><circle class="dot" cx="850" cy="170" r="3"/>
+    <path d="M760 60 L820 110 L700 150 Z M640 50 L760 60 M820 110 L850 170" stroke="#64748b" stroke-opacity=".35" fill="none"/>
+  </g>
+  <text x="48" y="88" class="name">Mohamed Adel</text>
+  <text x="50" y="122" class="role">AI product engineer · India · remote, any time zone</text>
+  <text x="50" y="170" class="line">❯ <tspan class="w w1">building agents that do real work on real data</tspan></text>
+  <text x="68" y="170" class="line"><tspan class="w w2">directing Claude Code, testing everything myself</tspan></text>
+  <text x="68" y="170" class="line"><tspan class="w w3">turning unrelated ideas into new products</tspan></text>
+  <rect class="cur" x="50" y="182" width="9" height="3"/>
+</svg>
