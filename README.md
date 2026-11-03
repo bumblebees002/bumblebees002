@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mohamed Adel, AI product engineer" width="100%"/>
+<img src="assets/header.svg" alt="Mohamed Adel, Full-Stack AI Engineer building LLM agents with Claude Code" width="100%"/>
+
+**Full-Stack AI Engineer** · LLM agents · tool calling · RAG · voice AI · TypeScript · Next.js · Node.js · Python · PostgreSQL · Claude Code<br/>
+India · remote, any time zone · contractor or employer of record
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdadel034-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdadel034)
 [![Email](https://img.shields.io/badge/Email-say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bombusbumblebees002@gmail.com)
@@ -10,7 +13,7 @@
 
 ## Hi, I'm Adel 👋
 
-I build AI products where an agent does real work on real data: books expenses, runs a shop's stock, joins a meeting and talks. I build them with **Claude Code**. I direct it, I read what it writes, and I test everything before it ships.
+I'm a full-stack AI engineer. I build production LLM agents and the apps around them, where an agent does real work on real data: books expenses, runs a shop's stock, joins a meeting and talks. I build them with **Claude Code**. I direct it, I read what it writes, and I test everything before it ships.
 
 What I like most is taking things that were never meant to go together and turning them into something new.
 
